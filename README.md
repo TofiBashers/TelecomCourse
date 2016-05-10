@@ -34,4 +34,4 @@
 
 9 Никитенко Антон
 * POP3 сервер java 
-* [FTP клиент в пассивном режиме java](https://github.com/AntonNikitenko/FTP_Client)
+* [FTP клиент в пассивном режиме java](https://github.com/AntonNikitenko/_FTPClient.git)
