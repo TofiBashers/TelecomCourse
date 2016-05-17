@@ -18,7 +18,7 @@
 5 Родина Лера pop3-клиент python, ftp-сервер java
 * [ftp-server-java](https://github.com/valeryrodina/spring2016)
 * [pop3-client-python](https://github.com/valeryrodina/spring2016/tree/master/mail_client)
-* [pop3 report!!](https://github.com/valeryrodina/pop3-report/blob/master/pop3_rodina.pdf)
+* [pop3 report!!](https://github.com/valeryrodina/report-pop3client)
 
 
 6 Ардашова Ксения  
