@@ -38,5 +38,5 @@
 * [FTP клиент в пассивном режиме java](https://github.com/AntonNikitenko/_FTPClient.git)
 
 10 Коробенин Павел
-* IMAP4-клиент -- Java (Android-приложение)
+* [IMAP4-клиент -- Java (Android)](https://github.com/TofiBashers/ImapClient)
 * FTP-сервер -- Kotlin
